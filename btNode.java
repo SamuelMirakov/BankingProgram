@@ -1,6 +1,6 @@
 // NODE CLASS
 public class btNode {
-  public	btNode left, right;
+  public btNode left, right;
 	Customer data = new Customer();
 /*
 	 // Basic Constructor with Customer parameter
