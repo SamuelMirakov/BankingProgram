@@ -1,2 +1,2 @@
 # BankingProgram
-Created this Banking Program for Data Structures class, used with a binary tree.
+Created this Banking Program Project for Data Structures class
